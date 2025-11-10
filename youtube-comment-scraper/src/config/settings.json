@@ -1,0 +1,9 @@
+{
+  "youtube_api_key": "YOUR_API_KEY_HERE",
+  "comment_limit": 100,
+  "max_videos_per_channel": 30,
+  "fetch_captions": true,
+  "caption_languages": ["en"],
+  "output_file": "data/sample_output.json",
+  "log_level": "INFO"
+}
